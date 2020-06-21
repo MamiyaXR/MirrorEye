@@ -1,0 +1,26 @@
+[
+  {
+    "panelType": "MainPanel",
+    "path": "Panels/MainPanel"
+  },
+  {
+    "panelType": "PausePanel",
+    "path": "Panels/PausePanel"
+  },
+  {
+    "panelType": "OptionPanel",
+    "path": "Panels/OptionPanel"
+  },
+  {
+    "panelType": "StagePanel",
+    "path": "Panels/StagePanel"
+  },
+  {
+    "panelType": "AudioPanel",
+    "path": "Panels/AudioPanel"
+  },
+  {
+    "panelType": "VideoPanel",
+    "path": "Panels/VideoPanel"
+  }
+]
